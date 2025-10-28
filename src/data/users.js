@@ -1,15 +1,15 @@
 export const users = [
   {
     id: 1,
-    name: "John Doe",
-    email: "john@example.com",
+    name: "Nihas kanukuntla",
+    email: "nihas@example.com",
     role: "Product Designer",
     location: "Bengaluru, Karnataka",
   },
   {
     id: 2,
-    name: "Jane Smith",
-    email: "jane@example.com",
+    name: "vishal C",
+    email: "vishal@example.com",
     role: "Frontend Engineer",
     location: "Mumbai, Maharashtra",
   },
